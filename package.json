@@ -1,0 +1,17 @@
+{
+  "name": "paginationTable",
+  "version": "1.0.0",
+  "description": "elementUi表格，表单的二次封装，以及paginationTable类的实现封装表格通用逻辑。实现了常规表格页面的快速搭建",
+  "main": "src/index.js",
+  "dependencies": {
+    "element-ui": "^2.15.14",
+    "vue": "^2.7.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["paginationTable","mainTable","mainForm","表格表单二次封装","表格查询通用逻辑封装","表格表单快速搭建"],
+  "author": "lijiapeng",
+  "license": "ISC"
+}

@@ -1,0 +1,2 @@
+# paginationTable
+elementUi表格，表单的二次封装，以及paginationTable类的实现封装表格通用逻辑。实现了常规表格页面的快速搭建
